@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './login/login.component';
 import { BaseComponent } from './base/base.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
-import { DashboardComponent } from './dashboard/dashboard.component';
+import { BlankComponent } from './blank/blank.component';
 import { FooterComponent } from './footer/footer.component';
 import { TopbarComponent } from './topbar/topbar.component';
 
@@ -16,7 +16,7 @@ import { TopbarComponent } from './topbar/topbar.component';
     LoginComponent,
     BaseComponent,
     SidebarComponent,
-    DashboardComponent,
+    BlankComponent,
     FooterComponent,
     TopbarComponent
   ],
